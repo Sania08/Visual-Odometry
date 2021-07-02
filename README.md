@@ -6,7 +6,7 @@
 
   <img src="https://user-images.githubusercontent.com/64685403/124266666-e32c5000-db54-11eb-8b63-aee21882d407.png" width="400">
 
-  <img align ="right" src="https://user-images.githubusercontent.com/64685403/124284248-6c9a4d00-db6a-11eb-909b-597a79283cae.png" width="400">
+  <img src="https://user-images.githubusercontent.com/64685403/124284248-6c9a4d00-db6a-11eb-909b-597a79283cae.png" width="400">
   
 ## 2.  2D to 2D Motion Estimation using optical flow through Lucas Kanade Trackers:
 
