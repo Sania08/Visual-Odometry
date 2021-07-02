@@ -14,6 +14,7 @@
 * Detection of keypoints and calculation of descriptors is done using the [ORB](https://docs.opencv.org/master/d1/d89/tutorial_py_orb.html) algorithm.
 * Feature matching is done using [Flann Based Matcher](https://docs.opencv.org/3.4/d5/d6f/tutorial_feature_flann_matcher.html).
 * 3D Point cloud and images from camera is used and the transformation is calculated using Perspective-n-Point Method
+
   <img src="https://user-images.githubusercontent.com/64685403/124307661-c4927d00-db85-11eb-954a-b16af61d68fe.png" width="400">
 
 
